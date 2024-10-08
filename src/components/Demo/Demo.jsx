@@ -10,7 +10,11 @@ function Demo(){
             <div className="main flex justify-center items-center">
                 <div className="dataDiv w-[70vw] h-[93vh] pl-[5vh] pt-[5vh] pb-[5vh]">
                     <div className="data bg-[rgba(240,248,255,0.097)] rounded-[18px] border border-black outline outline-red outline-2 h-full ">
-                        <div className="eventName font-bold text-2xl text-[#9eec4b] m-5">
+                        <div className="img">
+                            <img src="https://drive.google.com/thumbnail?id=1NaYHvXnN9483wnNFgmqYCCocoUmXmXpn&sz=w1000" alt="imgg"/>
+                            {/* <img src="./twister.png" alt=""/> */}
+                        </div>
+                        <div className="eventName font-bold text-3xl text-[#9eec4b] m-5">
                             QUIZTER
                         </div>
                         <div className="eventDiscription m-5">
