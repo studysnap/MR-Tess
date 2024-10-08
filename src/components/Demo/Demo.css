@@ -1,0 +1,8 @@
+.poster{
+    width: auto;
+    background-color: #fcfefdc2;
+    height: 83vh;
+    aspect-ratio: 9/16;
+    /* margin: 5vh; */
+    border-radius: 18px;
+}
