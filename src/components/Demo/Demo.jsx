@@ -13,8 +13,8 @@ function Demo({obj}){
             <div className="main flex justify-center items-center">
                 <div className="dataDiv w-[70vw] h-[93vh] pl-[5vh] pt-[5vh] pb-[5vh]">
                     <div className="data bg-[rgba(240,248,255,0.097)] rounded-[18px] border border-black outline outline-red outline-2 h-full relative">
-                        <div className="img absolute right-[3%] bottom-[24%]">
-                            <img src={obj.img} alt="eventRelatedPng"/>
+                        <div className="img absolute right-[3%] bottom-[15%] ">
+                            <img src={obj.img} alt="eventRelatedPng" />
                         </div>
                         <div className="eventName font-bold text-3xl text-[#9eec4b] m-5">
                             {obj.title}
@@ -44,7 +44,7 @@ function Demo({obj}){
                         {/* <div className="eventRegiForm border-2 border-red-500 box-border m-5 h-48 flex justify-center items-center">
                             <button type="submit">Register Now</button>
                         </div> */}
-                        <div className="eventRegiForm flex justify-center items-center m-5">
+                        <div className="eventRegiForm flex justify-center items-center absolute bottom-3 left-[50%] translate-x-[-50%]">
                             <div className="btn text-[#071f8b] text-[15px] font-medium bg-[#9eec4b] rounded-[15px] p-2">
                                 <button type="button" onClick={formTab}>
                                     Click here to Register
