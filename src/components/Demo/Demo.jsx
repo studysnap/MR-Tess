@@ -23,10 +23,10 @@ function Demo(){
                             Date : Expected 16 or 17 October
                         </div>
                         <div className="eventTime m-5">
-                            Time <img className="inline" src="https://drive.google.com/thumbnail?id=1TGgkU4d42gKTgRzp8Moz4UKd68ppyMnp&sz=w1000" alt="time" />: Expected to last for 3 hours
+                            Time <img className="inline h-4" src="https://drive.google.com/thumbnail?id=1TGgkU4d42gKTgRzp8Moz4UKd68ppyMnp&sz=w1000" alt="time" />: Expected to last for 3 hours
                         </div>
                         <div className="eventPlace m-5">
-                            Place <img className="inline" src="https://drive.google.com/thumbnail?id=1FcoYICzSzyKMwVqfANoBWpk1ujZb7wXb&sz=w1000" alt="location" />: TBA
+                            Place <img className="inline h-5" src="https://drive.google.com/thumbnail?id=1FcoYICzSzyKMwVqfANoBWpk1ujZb7wXb&sz=w1000" alt="location" />: TBA
                         </div>
                         <div className="eventEntryFee m-5">
                             Entry Fee : $$$
