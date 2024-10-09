@@ -9,10 +9,9 @@ function Demo(){
         <>
             <div className="main flex justify-center items-center">
                 <div className="dataDiv w-[70vw] h-[93vh] pl-[5vh] pt-[5vh] pb-[5vh]">
-                    <div className="data bg-[rgba(240,248,255,0.097)] rounded-[18px] border border-black outline outline-red outline-2 h-full ">
-                        <div className="img">
+                    <div className="data bg-[rgba(240,248,255,0.097)] rounded-[18px] border border-black outline outline-red outline-2 h-full relative">
+                        <div className="img absolute right-[3%] bottom-[24%]">
                             <img src="https://drive.google.com/thumbnail?id=1NaYHvXnN9483wnNFgmqYCCocoUmXmXpn&sz=w1000" alt="imgg"/>
-                            {/* <img src="./twister.png" alt=""/> */}
                         </div>
                         <div className="eventName font-bold text-3xl text-[#9eec4b] m-5">
                             QUIZTER
@@ -24,10 +23,10 @@ function Demo(){
                             Date : Expected 16 or 17 October
                         </div>
                         <div className="eventTime m-5">
-                            Time : Expected to last for 3 hours
+                            Time <img className="inline" src="https://drive.google.com/thumbnail?id=1TGgkU4d42gKTgRzp8Moz4UKd68ppyMnp&sz=w1000" alt="time" />: Expected to last for 3 hours
                         </div>
                         <div className="eventPlace m-5">
-                            Place : TBA
+                            Place <img className="inline" src="https://drive.google.com/thumbnail?id=1FcoYICzSzyKMwVqfANoBWpk1ujZb7wXb&sz=w1000" alt="location" />: TBA
                         </div>
                         <div className="eventEntryFee m-5">
                             Entry Fee : $$$
