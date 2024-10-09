@@ -1,0 +1,50 @@
+[
+    {
+        "title" : "QUIZTER",
+        "img" : "https://drive.google.com/thumbnail?id=1NaYHvXnN9483wnNFgmqYCCocoUmXmXpn&sz=w1000",
+        "discription" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel soluta illum reiciendis architecto? Provident, magnam assumenda ipsum corrupti velit exercitationem atque neque voluptatibus rerum aspernatur eos ducimus distinctio nostrum omnis in! Dolor, iste suscipit! Nihil at, officia distinctio, facilis corrupti minus, pariatur nisi ea sint hic vitae odit repudiandae debitis itaque sed mollitia tempora adipisci ipsum expedita alias. Debi5is facilis blanditiis cupiditate quae enim assumenda ratione quam saepe iure consectetur similique qui numquam, ullam, perspiciatis est. Delectus temporibus fugiat et!",
+        "date" : "Expected 16 or 17 October",
+        "time" : "Expected to last for 3 hours",
+        "location" : "TBA",
+        "entryFees" : "₹₹₹",
+        "firstPrizeMoney" : "₹",
+        "secondPrizeMoney" : "",
+        "thirdPrizeMoney" : ""
+    },
+    {
+        "title" : "MATRIX BREAKOUT",
+        "img" : "https://drive.google.com/thumbnail?id=1NaYHvXnN9483wnNFgmqYCCocoUmXmXpn&sz=w1000",
+        "discription" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel soluta illum reiciendis architecto? Provident, magnam assumenda ipsum corrupti velit exercitationem atque neque voluptatibus rerum aspernatur eos ducimus distinctio nostrum omnis in! Dolor, iste suscipit! Nihil at, officia distinctio, facilis corrupti minus, pariatur nisi ea sint hic vitae odit repudiandae debitis itaque sed mollitia tempora adipisci ipsum expedita alias. Debi5is facilis blanditiis cupiditate quae enim assumenda ratione quam saepe iure consectetur similique qui numquam, ullam, perspiciatis est. Delectus temporibus fugiat et!",
+        "date" : "All three days 18-19-20 oct",
+        "time" : "10am to 6pm",
+        "location" : "TBA",
+        "entryFees" : "₹30 per participants",
+        "firstPrizeMoney" : "1st ₹1500",
+        "secondPrizeMoney" : "2nd ₹1000",
+        "thirdPrizeMoney" : "3rd ₹500"
+    },
+    {
+        "title" : "PUZZLE HUNT",
+        "img" : "https://drive.google.com/thumbnail?id=1NaYHvXnN9483wnNFgmqYCCocoUmXmXpn&sz=w1000",
+        "discription" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel soluta illum reiciendis architecto? Provident, magnam assumenda ipsum corrupti velit exercitationem atque neque voluptatibus rerum aspernatur eos ducimus distinctio nostrum omnis in! Dolor, iste suscipit! Nihil at, officia distinctio, facilis corrupti minus, pariatur nisi ea sint hic vitae odit repudiandae debitis itaque sed mollitia tempora adipisci ipsum expedita alias. Debi5is facilis blanditiis cupiditate quae enim assumenda ratione quam saepe iure consectetur similique qui numquam, ullam, perspiciatis est. Delectus temporibus fugiat et!",
+        "date" : "All three days 18-19-20 oct",
+        "time" : "10am to 6pm",
+        "location" : "TBA",
+        "entryFees" : "₹50 per team",
+        "firstPrizeMoney" : "1st ₹500",
+        "secondPrizeMoney" : "2nd ₹300",
+        "thirdPrizeMoney" : "3rd ₹200"
+    },
+    {
+        "title" : "Enigma",
+        "img" : "https://drive.google.com/thumbnail?id=1NaYHvXnN9483wnNFgmqYCCocoUmXmXpn&sz=w1000",
+        "discription" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel soluta illum reiciendis architecto? Provident, magnam assumenda ipsum corrupti velit exercitationem atque neque voluptatibus rerum aspernatur eos ducimus distinctio nostrum omnis in! Dolor, iste suscipit! Nihil at, officia distinctio, facilis corrupti minus, pariatur nisi ea sint hic vitae odit repudiandae debitis itaque sed mollitia tempora adipisci ipsum expedita alias. Debi5is facilis blanditiis cupiditate quae enim assumenda ratione quam saepe iure consectetur similique qui numquam, ullam, perspiciatis est. Delectus temporibus fugiat et!",
+        "date" : "19 oct",
+        "time" : "Expected to last for 2 hour 10am to 12pm",
+        "location" : "location",
+        "entryFees" : "₹₹₹",
+        "firstPrizeMoney" : "1st ₹1500",
+        "secondPrizeMoney" : "2nd ₹1000",
+        "thirdPrizeMoney" : "3rd ₹500"
+    }
+]
