@@ -1,11 +1,12 @@
 import React from "react"
 import './Demo.css'
+import AdUnit from "../../Ads";
 
 function Demo({obj}){
 
     function formTab(){
-            const url = 'https://docs.google.com/forms/u/0/';
-            window.open(url, '_blank');
+        const url = 'https://docs.google.com/forms/u/0/';
+        window.open(url, '_blank');
     }
 
     return(
@@ -18,6 +19,7 @@ function Demo({obj}){
                         </div>
                         <div className="eventName font-bold text-3xl text-[#9eec4b] m-5">
                             {obj.title}
+                            <AdUnit/>
                         </div>
                         <div className="eventDiscription m-5">
                             {obj.discription}
